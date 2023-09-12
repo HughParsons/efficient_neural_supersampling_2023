@@ -12,4 +12,4 @@
 - [x] Depth-to-space and space-to-depth
 - [ ] Jitter-conditioned convolutions
 - [ ] Core network 
-- [ ] Blending module
+- [x] Blending module
