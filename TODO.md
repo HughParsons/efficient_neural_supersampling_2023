@@ -9,7 +9,7 @@
 # Model
 - [ ] Jitter compensation
 - [ ] Depth-informed dilation
-- [ ] Depth-to-space and space-to-depth
+- [x] Depth-to-space and space-to-depth
 - [ ] Jitter-conditioned convolutions
 - [ ] Core network 
 - [ ] Blending module
